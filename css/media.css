@@ -1,0 +1,591 @@
+
+
+
+@media(max-width: 1199px){
+
+    header .row {
+        min-height: 84vh;
+    } 
+
+    .banner-content h1 {
+        font-size: 56px;
+    
+    }
+
+    .btn-style, .btn-style-reverse {
+        padding: 12px 22px;
+    }  
+
+
+    .resume-box:hover .resume {
+        
+        background-size: 106% 102%;
+        background-repeat: no-repeat;
+    } 
+
+
+    .question-section h1 {
+        font-size: 25px;
+
+    } 
+
+    .question-section h2 {
+        font-size: 25px;
+
+    } 
+
+    .question-section .btn {
+        font-size: 16px;
+        padding: 12px 26px;
+        
+    }
+
+
+    .embed-responsive {
+        padding: 0 0 50px;
+    } 
+
+
+
+    .letest-portfolio .heading h2 span {
+
+        font-size: 80px;
+       
+    } 
+
+    .letest-portfolio .heading h2 {
+        padding: 11px;
+    } 
+
+
+    .getintouch-section .heading h2 span {
+        font-size: 80px;
+        
+    } 
+
+    .getintouch-section .heading h2 {
+        font-size: 50px;
+        padding: 5px;
+        
+    } 
+
+
+    .social a .nav li i {
+        font-size: 45px;
+    } 
+
+    .social a .nav li span {
+        font-size: 20px;
+    }
+
+    
+
+    
+    
+
+
+
+
+    /* .heading h2 {
+        font-size: 34px;
+        padding: 8px 70px 0px 0px;
+    
+    } 
+
+    .heading h2 span {
+        font-size: 75px;
+    
+    } 
+
+    .about-me-content p {
+        
+        padding-top: 35px;
+        font-size: 13px;
+        
+    } */
+
+
+
+   
+}
+
+@media(max-width: 991px){
+
+    header .row {
+        min-height: 80vh;
+    }
+
+.navbar-nav {
+        -ms-flex-direction: row;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+
+.navbar-light .navbar-nav .nav-link { 
+    font-size: 16px;
+    padding: 16px 27px;
+    
+  }
+
+  .banner-content h1 {
+    font-size: 46px;
+    margin: 0;
+  } 
+
+  .banner-content p {
+    font-size: 16px;
+    width: 63%; 
+    padding: 10px 0 28px 0px; 
+    
+  } 
+
+  .btn-style, .btn-style-reverse {
+
+    font-size: 14px;
+  }
+
+  .btn-style, .btn-style-reverse {
+    padding: 12px 18px;
+}  
+
+.skill-section .heading span {
+    
+    font-size: 64px;
+    
+} 
+
+.skill-section .heading h2 {
+    padding: 12px;
+}
+
+.heading h2 {
+    font-size: 42px;
+    
+} 
+
+.skill-section h4 {
+    font-size: 25px;
+    margin: 0;
+    padding-top: 30px;
+
+} 
+
+.skill-section .hvr a {
+    font-size: 24px;   
+} 
+
+.resume-section .heading span {
+    font-size: 64px;
+    
+}
+
+.resume-section .heading h2 {
+    padding: 13px;
+} 
+
+.resume-section h3 {
+    
+    padding: 40px 0 20px 0;
+    
+} 
+
+.letest-portfolio .heading h2 span {
+   
+    font-size: 70px;
+   
+} 
+
+.heading h2 {
+    font-size: 40px;
+} 
+
+.letest-portfolio .heading h2 {
+    padding: 12px;
+}  
+
+
+.question-section h2 {
+    font-size: 22px;
+    line-height: 1;
+} 
+
+.question-section h1 {
+    font-size: 20px;
+    line-height: 1;
+}
+
+
+.question-section .btn {
+    font-size: 14px;
+    padding: 11px 28px;
+    border-bottom-right-radius: 18px;
+    font-weight: 600;
+} 
+
+
+.question-section .container {
+    
+    padding: 50px 29px 40px 29px;
+    border-bottom-right-radius: 46px;
+} 
+
+
+.getintouch-section .heading h2 {
+    font-size: 40px;
+    padding: 9px;
+} 
+
+.getintouch-section .heading h2 span {
+    font-size: 80px;
+}  
+
+
+.social a .nav li i {
+    font-size: 32px;
+} 
+
+
+.social a .nav li span {
+    font-size: 14px;
+} 
+
+.social a:hover {
+    border-bottom-right-radius: 22px;
+} 
+
+.social a {
+    border-radius: 4px;
+    
+} 
+
+.social a {
+    width: 70%; 
+} 
+
+.social a .nav li i {
+    font-size: 40px;
+} 
+
+.social a .nav li span {
+    font-size: 18px;
+} 
+
+
+
+}
+
+@media(max-width: 767px){ 
+
+    header .row {
+        min-height: 70vh;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 15px;
+        padding: 14px 14px;
+    }
+
+    .banner-content h1 {
+        font-size: 36px;
+    }
+
+
+    .banner-content p {
+        font-size: 16px;
+        width: 70%;
+        padding: 4px 0 14px 0px;
+    } 
+
+    .btn-style, .btn-style-reverse {
+        padding: 10px 10px; 
+        font-size: 13px;
+    } 
+
+
+    .btn-style {
+        border-bottom-left-radius: 22px;
+    } 
+
+    .btn-style-reverse {
+        border-bottom-right-radius: 22px;
+    } 
+
+    .social-links {
+        
+        top: auto;
+        right: 0;
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        bottom: 35px;
+    } 
+
+    .social-links li a {
+    
+        width: 30px;
+        height: 30px;
+        font-size: 18px; 
+        line-height: 30px;
+
+    } 
+
+    .social-links li span {
+        
+        transform: rotate(0deg) translate(0px, 0px);
+        
+    } 
+
+    .social-links li {
+        padding: 10px 12px;
+    } 
+
+    .skill-section .heading span {
+        font-size: 52px;
+    } 
+
+    .heading h2 {
+        font-size: 36px;
+    } 
+
+    .skill-section h4 {
+        font-size: 22px;
+        padding-top: 22px;
+        padding-bottom: 18px;
+    } 
+
+    .skill-section .hvr a {
+        font-size: 18px;
+    } 
+
+    .resume-section .heading span {
+        font-size: 52px;
+    } 
+
+    .letest-portfolio .heading h2 span {
+        font-size: 55px;
+    } 
+
+    .letest-portfolio .heading h2 {
+        padding: 8px;
+    } 
+
+    .row{
+        justify-content: end;
+    } 
+
+    .btn-links li .btn {
+        font-size: 15px;
+        margin: 0 10px 0;
+        border-bottom-right-radius: 15px;
+        
+    } 
+
+    .question-section .container {
+        padding: 20px 0px 20px 0px;
+        border-bottom-right-radius: 65px;
+        text-align: center;
+    } 
+
+    .question-section h2 {
+        font-size: 20px;
+    } 
+
+    .question-section h1 {
+        font-size: 20px;
+    } 
+
+    .question-section .btn {
+        font-size: 13px;
+        padding: 6px 15px;
+        margin-top: 10px;
+    } 
+
+    .question-section .btn {
+        float: none;
+    } 
+    
+    .getintouch-section .heading h2 span {
+        font-size: 60px;
+    } 
+
+    .getintouch-section .heading h2 {
+        font-size: 35px; 
+        padding: 6px;
+    } 
+
+
+    .social a {
+        width: 82%;
+    } 
+
+    .social a .nav li {
+        padding: 8px 8px;
+    } 
+
+    .social a .nav li i {
+        font-size: 30px;
+    } 
+
+
+    .social a .nav li span {
+        font-size: 15px;
+    } 
+
+    .social a:hover {
+        border-bottom-right-radius: 18px;
+    }
+
+}
+
+
+
+
+@media(max-width: 575px){
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 14px;
+        padding: 15px 14px;
+    }
+
+    .navbar-nav {
+        -ms-flex-direction: column;
+        flex-direction: column;
+        text-align:center;
+    } 
+
+    .navbar-light .navbar-nav .nav-link {
+        
+        display: inline-block;
+    } 
+
+    .navbar-nav {
+        background: #000000bd;
+    } 
+
+    .banner-content h1 {
+        font-size: 26px;
+    
+    }
+
+    .banner-content p {
+        font-size: 13px;
+        width: 65%;
+        
+    } 
+
+    .btn-style, .btn-style-reverse {
+        font-size: 12px;
+    } 
+
+    .btn-style, .btn-style-reverse {
+        padding: 7px 7px;
+    } 
+
+    .btn-style-reverse {
+        border-bottom-right-radius: 18px;
+    } 
+
+    .btn-style {
+        border-bottom-left-radius: 18px;
+    } 
+
+    header .row {
+        min-height: 60vh;
+    } 
+
+    .social-links li a {
+        width: 23px;
+        height: 23px;
+        font-size: 13px;
+        line-height: 24px;
+    }  
+
+    .social-links {
+        bottom: 28px;
+    } 
+
+    .social-links li span {
+        font-size: 16px;
+
+    } 
+
+    .skill-section .hvr a {
+        font-size: 26px;
+    } 
+
+    .resume-box:hover .resume {
+        
+        background-size: 105% 102%;
+        background-repeat: no-repeat;
+    } 
+
+    .row {
+        justify-content: center;
+    } 
+
+    .heading h2 {
+    
+        padding: 11px;
+    } 
+
+    .btn-links li .btn {
+        font-size: 16px;
+        padding: 4px 10px;
+        border-bottom-right-radius: 14px;
+        transition: all 0.6s;
+        margin: 6px 28px 4px;
+    } 
+
+    .question-section .btn {
+        font-size: 12px;
+        padding: 5px 10px;
+        margin-top: 5px;
+        border-bottom-right-radius: 16px;
+    }  
+
+    .question-section h2 {
+        font-size: 16px;
+    } 
+
+    .question-section h1 {
+        font-size: 16px;
+    } 
+
+    .question-section .container {
+        border-bottom-right-radius: 50px;
+ 
+    } 
+
+    .heading h2 span {
+        font-size: 70px;
+
+    } 
+
+    .heading h2 {
+        font-size: 35px;
+        padding: 6px;
+    }  
+
+    .about-me-content p {
+        text-align: justify;
+    } 
+
+    .social a .nav li i {
+        font-size: 28px;
+    } 
+
+    .social a .nav li span {
+        font-size: 14px;
+    } 
+
+    .social a .nav li {
+        padding: 4px 5px;
+    } 
+
+    .social a:hover {
+        border-bottom-right-radius: 4px;
+    } 
+
+
+}
